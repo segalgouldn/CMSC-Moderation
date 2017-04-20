@@ -1,0 +1,72 @@
+********************Test Starting********************
+
+
+Testing on string: "language"
+
+
+Number of total courselists: 2213
+Number of courselists in training set: 203
+
+
+OrderedDict([('Spanish', 0.25471629092886144),
+             ('Computer Science', 0.24685627519140946),
+             ('Economics', 0.16809236519471937),
+             ('Mathematics', 0.16664622894411127),
+             ('Art History', 0.16368883974089843)])
+
+
+********************Test Complete********************
+********************Test Starting********************
+
+
+Testing on string: "book"
+
+
+Number of total courselists: 2213
+Number of courselists in training set: 203
+
+
+OrderedDict([('Economics', 0.20197044334975373),
+             ('Mathematics', 0.20197044334975373),
+             ('Spanish', 0.20197044334975373),
+             ('Art History', 0.19704433497536944),
+             ('Computer Science', 0.19704433497536944)])
+
+
+********************Test Complete********************
+********************Test Starting********************
+
+
+Testing on string: "learning"
+
+
+Number of total courselists: 2213
+Number of courselists in training set: 203
+
+
+OrderedDict([('Computer Science', 0.22122313583614905),
+             ('Mathematics', 0.19682836882109678),
+             ('Economics', 0.1948605611195235),
+             ('Spanish', 0.19486056111952316),
+             ('Art History', 0.19222737310370736)])
+
+
+********************Test Complete********************
+********************Test Starting********************
+
+
+Testing on string: "algorithm"
+
+
+Number of total courselists: 2213
+Number of courselists in training set: 203
+
+
+OrderedDict([('Computer Science', 0.24919198266933723),
+             ('Mathematics', 0.1894310422213331),
+             ('Economics', 0.18854707757991357),
+             ('Spanish', 0.18854707757991324),
+             ('Art History', 0.18428281994950282)])
+
+
+********************Test Complete********************
